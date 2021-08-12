@@ -1,7 +1,4 @@
----------
-licence by Seagate. 
-Please contact: xiaoye.qian@seagate.com, chao.1.zhang@seagate.com, sthitie.e.bom@seagate.com
----------
+
 Deep visualization
 ---------
 Overview:
